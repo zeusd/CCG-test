@@ -1,7 +1,7 @@
 # SFML test
-Yellow circle should move with WASD and teleport between boundaries
+Yellow circle moves with WASD and teleports between boundaries
 <br>
-Red diamond should follow mouse
+Red diamond follows mouse
 <br><br>
 On touch red takes health from yellow, but cannot attack for a time
 <br>
