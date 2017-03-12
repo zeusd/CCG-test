@@ -1,10 +1,6 @@
-# SFML test
-Yellow circle moves with WASD and teleports between boundaries
+# SFML CCG test
+Drag and drop the two cards on the field
 <br>
-Red diamond follows mouse
-<br><br>
-On touch red takes health from yellow, but cannot attack for a time
+Select attacking card. If the other card is in range, attack it.
 <br>
-When not taking damage, yellow heals after some time
-<br>
-When yellow heals, red takes damage
+Repeat until one of them drops to 0 Hit Points and dies.
