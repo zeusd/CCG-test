@@ -1,4 +1,4 @@
-# SFML CCG test
+## SFML CCG test
 # RESOLUTION SUPPORT ONLY FOR 1920x1080
 Drag and drop the three cards on the field
 <br>
